@@ -93,11 +93,5 @@ For more detailed information, check out the official ADK documentation:
 
 ## Support
 
-Need help or run into issues? Join our free AI Developer Accelerator community on Skool:
 - [URL of the workshop](https://gdg.community.dev/events/details/google-gdg-annapolis-presents-launch-your-first-ai-agent-a-hands-on-google-adk-workshop-for-builders-and-innovators/cohost-gdg-baltimore)
 
-In the community you'll find:
-- Weekly coaching and support calls
-- Early access to code from YouTube projects
-- A network of AI developers of all skill levels ready to help
-- Behind-the-scenes looks at how these apps are built
