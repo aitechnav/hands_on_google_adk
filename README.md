@@ -94,7 +94,7 @@ For more detailed information, check out the official ADK documentation:
 ## Support
 
 Need help or run into issues? Join our free AI Developer Accelerator community on Skool:
-- [AI Developer Accelerator Community](https://www.skool.com/ai-developer-accelerator/about)
+- [URL of the workshop](https://gdg.community.dev/events/details/google-gdg-annapolis-presents-launch-your-first-ai-agent-a-hands-on-google-adk-workshop-for-builders-and-innovators/cohost-gdg-baltimore)
 
 In the community you'll find:
 - Weekly coaching and support calls
